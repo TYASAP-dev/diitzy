@@ -1,13 +1,114 @@
-<h1 align="center">Hallo 👋, saya Muhammad Aditya Saputra</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diitzy&label=Profile%20views&color=0e75b6&style=flat" alt="diitzy" /> </p>
+# Muhammad Aditya Saputra
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diitzy" alt="diitzy" /></a> </p>
+### Software Engineering Student | Programmer | Unity & IL2CPP Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a Software Engineering student at **Universitas Global Institute** with an interest in software development, game modding, Unity, IL2CPP, reverse engineering, and programming.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diitzy&show_icons=true&theme=dracula&locale=en&layout=compact" alt="diitzy" /></p>
+- **Name:** Muhammad Aditya Saputra
+- **NIM:** 1124160009
+- **Study:** Teknik Informatika — Software Engineering
+- **University:** Universitas Global Institute
+- **Location:** Indonesia
+- **Interest:** Software Development, Unity, IL2CPP, ImGui, Game Modding, Reverse Engineering
+
+## Programming Languages
+
+- C++
+- Java
+- Python
+- JavaScript
+- PHP
+- Lua
+- Dart
+
+## Tech & Interests
+
+- Software Engineering
+- Object-Oriented Programming
+- Unity
+- IL2CPP
+- ImGui
+- Game Modding
+- Reverse Engineering
+- Mobile Application Development
+- Data Structures & Algorithms
+
+## Unity & IL2CPP
+
+I enjoy exploring Unity applications and analyzing IL2CPP structures to understand how different components work together.
+
+Some areas I work with:
+
+- Class
+- Method
+- Field
+- Offset
+- Object structure
+- Game component relationships
+- IL2CPP dump analysis
+- ImGui-based interfaces
+
+I enjoy turning the results of analysis into functional projects and experimenting with different approaches to understand software structures.
+
+## Coding Style
+
+I prefer code that is:
+
+- Clean
+- Structured
+- Consistent
+- Readable
+- Maintainable
+
+I pay attention to code organization and try to keep implementations simple and easy to understand.
+
+## Projects
+
+### Game Modding
+
+Projects and experiments involving:
+
+- Unity
+- IL2CPP
+- ImGui
+- Game analysis
+- Mod menu development
+
+### Software Engineering
+
+Projects related to:
+
+- Programming fundamentals
+- Object-oriented programming
+- Data structures
+- Algorithms
+- Application development
+
+### Mobile Development
+
+Coursework and projects related to mobile application development using programming technologies such as Dart.
+
+## Currently Learning
+
+- Software Engineering
+- C++
+- Java
+- Python
+- Dart
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Mobile Application Development
+- Unity & IL2CPP
+- Reverse Engineering
+
+## GitHub
+
+This profile contains my coursework, personal projects, programming experiments, and projects related to software development.
+
+I'm continuously learning, experimenting, and building projects to improve my programming skills.
+
+---
+
+> Keep learning. Keep building. Keep exploring.
